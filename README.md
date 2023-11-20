@@ -1,2 +1,2 @@
 # Python
-python basics coding for beginners
+Python basic coding for beginners.
